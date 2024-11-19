@@ -2,6 +2,12 @@
 
 CmdTabPlus is a macOS extension designed to reopen closed or minimized applications in the Command + Tab flow. This utility runs in the background, ensuring that your frequently used applications are always accessible with a simple keyboard shortcut.
 
+## Download
+
+[Download CmdTabPlus v1.0.5](https://github.com/tranhuycong/cmd-tab-plus-page/releases/download/v1.0.5/CmdTabPlus-Installer-v1.0.5.dmg)
+
+[All releases](https://github.com/tranhuycong/cmd-tab-plus-page/releases)
+
 ## Features
 
 - Reopen closed or minimized applications using Command + Tab.
