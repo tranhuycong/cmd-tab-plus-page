@@ -10,7 +10,17 @@ CmdTabPlus is a macOS extension designed to reopen closed or minimized applicati
 
 ## Screenshots
 
-![Main Page](path/to/your/screenshot.png)
+![Main Page](/images/main-page.png)
+
+## Preview
+
+### Reopen minimized app
+
+![Reopen Minimized App](/images/reopen-minimized.gif)
+
+### Reopen closed app
+
+![Reopen Closed App](/images/reopen-closed.gif)
 
 ## Usage
 
